@@ -4,11 +4,6 @@
 
 This project is an interactive and comprehensive dashboard created in **Power BI** to analyze and visualize the content libraries of three major OTT platforms: **Netflix**, **Amazon Prime Video**, and **Disney+**. The dashboard provides key insights into the distribution of movies and series, genre popularity, release trends over the years, and audience ratings.
 
-## 🖼️ Dashboard Preview
-
-A snapshot of the complete dashboard, showcasing the analysis for each platform:
-
-
 ## ✨ Key Features & Insights
 
 The dashboard is divided into three distinct sections, one for each platform, with tailored analytics.
@@ -18,16 +13,22 @@ The dashboard is divided into three distinct sections, one for each platform, wi
 * **Performance Metrics:** Displays an average **IMDb score of 6.49** across the platform's content.
 * **Release Trends:** A bar chart illustrates the number of shows released each year.
 * **Interactive Filters:** Allows users to slice data by **Genre** and individual **Show Titles** to get specific insights.
+* <img width="1379" height="777" alt="image" src="https://github.com/user-attachments/assets/0353c586-7659-4e3b-8f82-c9c85ae5ed77" />
+
 
 ### Amazon Prime Video
 * **Library Size:** Analyzes a total of **9,684 shows**, with **7,814 movies (81%)** and **1,854 series (19%)**.
 * **Content Ratings:** A pie chart breaks down the distribution of content by view ratings (e.g., 18+, 16+, All).
 * **Drill-Down Capabilities:** Users can filter content by **Genre**, **Duration**, **List of Directors**, and **View Rating**.
+* <img width="1373" height="778" alt="image" src="https://github.com/user-attachments/assets/5919ee56-a968-44b0-8056-26d5054e2bfd" />
+
 
 ### Disney+
 * **Content Analysis:** Shows a library of **1,450 titles**, consisting of **1,052 movies (73%)** and **398 series (27%)**.
 * **Annual Growth:** A bar chart visualizes the number of new shows added yearly.
 * **User Interaction:** Features slicers for **Show Titles**, **Genres**, **Duration**, and **Directors**, allowing for detailed exploration.
+* <img width="1373" height="772" alt="image" src="https://github.com/user-attachments/assets/0e80b770-49f9-4486-a1bc-c06880dba934" />
+
 
 ## 🛠️ Tools Used
 
