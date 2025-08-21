@@ -37,7 +37,7 @@ The dashboard is divided into three distinct sections, one for each platform, wi
 
 ## 💾 Data Source
 
-The dataset for this project was likely sourced from a publicly available repository such as Kaggle. It contains detailed information about movies and series available on the respective OTT platforms, including titles, genres, release years, directors, and ratings.
+The dataset for this project was sourced from Kaggle. It contains detailed information about movies and series available on the respective OTT platforms, including titles, genres, release years, directors, and ratings.
 
 ## ⚙️ Setup & Installation
 
